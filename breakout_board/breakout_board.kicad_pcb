@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 18)
+    (drawings 20)
     (tracks 136)
     (zones 0)
     (modules 2)
@@ -420,6 +420,12 @@
     )
   )
 
+  (gr_text v1.0 (at 185.928 100.076) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "Mattel Aquarius Cartridge Breakout" (at 159.512 97.79) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.25)))
+  )
   (gr_text "Nick Bild\nAugust 2022\nhttps://github.com/nickbild/aquarius_cartridge_breakout" (at 138.176 108.204) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
