@@ -1,1 +1,2 @@
-# aquarius_cartridge_breakout
+# Mattel Aquarius Cartridge Port Breakout Board
+
